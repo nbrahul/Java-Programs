@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=x\ y
+comment1.target=double\ add(double,\ double)
+comment10.params=x
+comment10.target=double\ cot(double)
+comment11.params=x
+comment11.target=double\ tan(double)
+comment2.params=x\ y
+comment2.target=double\ subtract(double,\ double)
+comment3.params=x\ y
+comment3.target=double\ multiply(double,\ double)
+comment4.params=x\ y
+comment4.target=double\ divide(double,\ double)
+comment5.params=x\ y
+comment5.target=double\ power(double,\ double)
+comment6.params=x
+comment6.target=double\ sin(double)
+comment7.params=x
+comment7.target=double\ cosin(double)
+comment8.params=x
+comment8.target=double\ sec(double)
+comment9.params=x
+comment9.target=double\ cosec(double)
+numComments=12
